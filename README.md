@@ -1,5 +1,5 @@
 # sql
-practice
+#practice
 
 
 create database Apple;
