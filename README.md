@@ -3,8 +3,11 @@
 
 
 create database Apple;
+
 show databases;
+
 use apple;
+
 create table iphone_moblie_a
 (
 product_id int primary key not null, 
@@ -57,6 +60,7 @@ insert into iphone_moblie_a values
 (1507256, 'iphone 15', 'purple', 2023),
 (1508256, 'iphone 15', 'yellow', 2023)
 ;
+
 select * from iphone_moblie_a;
 
 
